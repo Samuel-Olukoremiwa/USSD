@@ -1,3 +1,4 @@
+# ussd
 class Calc:
     def sum(self, x, y):
         print(f"The sum of{x} and {y} is {x+y}")
