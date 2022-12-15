@@ -1,4 +1,4 @@
-
+#CHECK EVERYTHING
 from kivy.app import App
 from kivy.core.window import Window
 from kivy.graphics import Color, Line
